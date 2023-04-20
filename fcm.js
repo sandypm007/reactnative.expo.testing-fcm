@@ -1,4 +1,3 @@
-import * as Permissions from "expo-permissions";
 import * as Notifications from "expo-notifications";
 
 const registerForPushNotificationsAsync = async function() {
